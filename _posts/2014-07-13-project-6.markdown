@@ -1,0 +1,15 @@
+---
+title: Charity
+subtitle: What charity?
+layout: default
+modal-id: 6
+date: 2014-07-15
+img: roundicons.png
+thumbnail: roundicons-thumbnail.png
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: A minimum of 50% of the initial project profits will be donated to the xyz nature fund in order to sustain our bee population. This will make sure that our cute little pollinators can do their magic for our nature! Depending on how fast our initial public minting is sold out, the donated portion will increase!
+
+---

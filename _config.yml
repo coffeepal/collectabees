@@ -1,0 +1,45 @@
+url: https://y7kim.github.io
+baseurl: /agency-jekyll-theme/
+
+# Site settings
+title: CollectaBees
+email: your-email@domain.com
+description: "CollectaBees cNFTs are the first NFT collection on Cardano to save the Bees and Nature!"
+
+
+# Team names, titles and social links
+people:
+- name: TheCoffeepal
+  pic: 1
+  position: Bee friend, Tech enthusiast, Organizer
+  social:
+    - title: twitter
+      url: #
+
+- name: BeeBurry
+  pic: 2
+  position: Bee friend, Nature lover, Designer
+  social:
+    - title: twitter
+      url: #
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: http://twitter.com/jekyllrb
+  - title: facebook
+    url:
+  - title: stack-overflow
+    url: http://stackoverflow.com/questions/tagged/jekyll
+  - title: bitbucket 
+    url: http://bitbucket.org/jekyll
+  - title: github
+    url: http://github.com/jekyll
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: Out in nature
+
+# Build settings
+markdown: kramdown
+permalink: pretty

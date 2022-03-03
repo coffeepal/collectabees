@@ -1,0 +1,15 @@
+---
+title: Cardano
+subtitle: Why Cardano?
+layout: default
+modal-id: 2
+date: 2014-07-17
+img: escape.png
+thumbnail: escape-thumbnail.png
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: Cardano is a very robust and efficient blockchain and does much less damage to our environment through its energy efficient Proof of Stake consensus mechanism, compared to its competitors. The scientific and future proof approach of the Cardano developers and its open and creative community naturally match with our cause!
+
+---

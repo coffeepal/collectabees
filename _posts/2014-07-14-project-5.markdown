@@ -1,0 +1,15 @@
+---
+title: Whitelist
+subtitle: How Whitelist?
+layout: default
+modal-id: 5
+date: 2014-07-14
+img: startup-framework.png
+thumbnail: startup-framework-thumbnail.png
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: We don't want whitelisting to be a great hustle. There will be a total of 250 whitelist spots. These spots can be claimed during March through the announcements on twitter and discord. Be sure to join both communities!
+
+---

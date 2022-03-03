@@ -1,0 +1,15 @@
+---
+title: Collection
+subtitle: Collection details?
+layout: default
+modal-id: 4
+date: 2014-07-15
+img: treehouse.png
+thumbnail: treehouse-thumbnail.png
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: The collection will consist of 10.000 unique bees! The bees have 8 traits with varying rarities and they are all super cute! A limited number of bees will be randomly selected for giveaways prior to the public mint.
+
+---

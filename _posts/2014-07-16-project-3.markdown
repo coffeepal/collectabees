@@ -1,0 +1,15 @@
+---
+title: Minting
+subtitle: Wen Mint?
+layout: default
+modal-id: 3
+date: 2014-07-16
+img: golden.png
+thumbnail: golden-thumbnail.png
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: The collection design will be finalized in early March. The public mint will be opened end of April or early May! But stay tuned for prior giveaways of a limited number of pre-mint assets! 
+
+---
